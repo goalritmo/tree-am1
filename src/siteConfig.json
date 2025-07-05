@@ -1,0 +1,36 @@
+{
+  "name": "Yendo al ritmo",
+  "bio": "de FAMAF",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://am1.goalritmo.com",
+  "blog": true,
+  "iconLinks": [
+    {
+      "id": "1750397736741",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@goalritmo/playlists"
+    }
+  ],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "🎥 Clases de Análisis Matemático I",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IxcKcBy5MbMFljNnQs2WVx8"
+    },
+    {
+      "id": "1728534585739",
+      "title": "📜 Presentaciones de Análisis I",
+      "url": "https://drive.google.com/drive/folders/1bVNoBuzRd-s_PV6oULXuSfEa5o5fp6hv?usp=sharing"
+    },
+    {
+      "id": "1728534585740",
+      "title": "🗂 Trabajos Prácticos de Análisis I",
+      "url": "https://drive.google.com/drive/folders/1p0pn_ivzF-QxGiJS8Rwe7Y0NCB0AIoMb?usp=sharing"
+    },
+    {
+      "id": "1728534585741",
+      "title": "✍ Exámenes viejos de Análisis I",
+      "url": "https://examenes-viejos.pages.dev/ac/analisis-matematico/"
+    }
+  ]
+}
