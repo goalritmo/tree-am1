@@ -4,13 +4,7 @@
   "profilePicture": "/profile-picture.jpg",
   "url": "https://am1.goalritmo.com",
   "blog": true,
-  "iconLinks": [
-    {
-      "id": "1750397736741",
-      "icon": "youtube",
-      "url": "https://www.youtube.com/@goalritmo/playlists"
-    }
-  ],
+  "iconLinks": [],
   "customLinks": [
     {
       "id": "1728534585738",
