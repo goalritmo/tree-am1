@@ -9,8 +9,8 @@ const postTitle = post.data.title || SITE.name;
 const postDescription = post.data.description || SITE.bio;
 ---
 
-<title>{`${postTitle} | ${SITE.name}`}</title>
-<meta name="title" content={`${postTitle} | ${SITE.name}`} />
+<title>{postTitle}</title>
+<meta name="title" content={postTitle} />
 <meta name="description" content={postDescription} />
 <link rel="canonical" href={SITE.url} />
 
