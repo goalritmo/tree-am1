@@ -7,18 +7,23 @@
   "iconLinks": [],
   "customLinks": [
     {
-      "id": "1728534585742",
+      "id": "1728534585737",
       "title": "✅ Auto-evaluación de Análisis I",
       "url": "https://famaf.aulavirtual.unc.edu.ar/mod/quiz/view.php?id=19119"
     },
     {
+      "id": "1728534585736",
+      "title": "✍ Exámenes Viejos de Análisis Matemático I",
+      "url": "https://examenes-viejos.pages.dev/lcc/analisis-matematico/"
+    },
+    {
       "id": "1728534585738",
-      "title": "🎥 Clases de Análisis Matemático I",
+      "title": "🎥 Clases Teóricas de Análisis Matemático I",
       "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IxcKcBy5MbMFljNnQs2WVx8"
     },
     {
       "id": "1728534585739",
-      "title": "📜 Presentaciones de Análisis I",
+      "title": "📜 Presentaciones de Análisis Matemático I",
       "url": "https://drive.google.com/drive/folders/1bVNoBuzRd-s_PV6oULXuSfEa5o5fp6hv?usp=sharing"
     },
     {
